@@ -1,1 +1,2 @@
 Aku ubah ini ah di feature 1
+Aku ubah ini di feature/2
